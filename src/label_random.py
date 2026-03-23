@@ -1,0 +1,1 @@
+# this script sends random lyrics to p-touch label makers over bluetooth so you can randomly label things in your house with lyrics from your favorite band

@@ -1,0 +1,1 @@
+#placeholder for the python script that will use a local lm to group line from songs with each other so that the nonsense lyric pairings make serendibptous pseudo entences

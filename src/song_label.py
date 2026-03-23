@@ -1,0 +1,1 @@
+# this will send an entire song to a p-touch printer, with options to print one long strip, or one line per cut, or each chorous/verse per cut

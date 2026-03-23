@@ -1,0 +1,1 @@
+# this script calls images_lyrics.py but then makes images formatted for samsung Frame TVs and exports them to the SmartThings app.

@@ -1,0 +1,1 @@
+#this script will use generative AI to make an abstract image based on a lyric, then overlay the lyric over the image
